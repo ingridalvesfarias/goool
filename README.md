@@ -21,7 +21,8 @@ O **Spider-Soccer Pro** nasceu da ideia de unir a estética de super-heróis (es
 3. Clique duas vezes no arquivo `index.html` para abrir diretamente no seu navegador favorito.
 
 ## 📸 Preview
-*(Dica: Adicione aqui uma captura de tela do seu jogo em ação)*
+
+<img src="img/imagem do projeto.png" alt="imagem do projeto">
 
 ## 🔮 Próximos Passos (Roadmap)
 - [ ] Adicionar níveis de dificuldade (goleiro mais rápido).
